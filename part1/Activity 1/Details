@@ -1,1 +1,12 @@
+Security concepts used on campus:
+WPA2/3 and 802.1X
 
+What I did: 
+- I asked the IT Support desk located at Reid Library about which security concepts are used on campus. They told me about WPA2/3 and 802.1X
+
+What I found:
+- 802.1X is used to manage who can access the network. When students try to connect to Unifi, they need to log in using their UWA Pheme account. If the login is correct, then access is granted. Otherwise, rejected connection request
+
+- WPA2 and WPA3 are used to secure the Wifi connection. These protocols encrypt the data sent over the network, so even if someone is nearby, they cannot read the data easily
+
+This shows both access control and encryption being used together. 802.1X ensures only authorized users can access the network, while WPA2/3 protects the data from being intercepted.

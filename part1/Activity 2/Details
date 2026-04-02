@@ -1,0 +1,14 @@
+Security concepts in public space
+What I did:
+- I used a public transport card scanner on a bus and took a photo while tapping my SmartRider card.
+
+What I found:
+- When I tapped my card on the scanner, the system read the card and displayed the fare deducted and the remaining balance. The system only accepts valid cards, and if the card is not recognized or has no balance, it would not allow proper use.
+
+This system demonstrates several cybersecurity concepts:
+- First, it uses authentication, as the system verifies whether the card is valid before allowing access.
+- Second, it enforces access control, since only users with valid cards can use the transport service.
+- Third, it provides accountability, because it records each transaction (fare deduction and balance), which can be tracked.
+- Additionally, the communication between the card and the scanner is likely secured (e.g., using RFID/NFC with encryption) to prevent cloning or unauthorized access.
+
+This shows how cybersecurity is applied in everyday public systems to ensure secure and reliable services.

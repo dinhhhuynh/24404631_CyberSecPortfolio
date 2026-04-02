@@ -1,0 +1,30 @@
+Discover 5 unique online security tools
+
+In this activity, I explored several online security tools that are used to improve cybersecurity on the internet. I actively searched for and tested these tools to understand how they work in practice.
+
+1. VirusTotal  
+I used VirusTotal to scan a website URL (e.g. www.uwa.edu.au/home) and observed the result. The tool analyzed the URL using multiple security engines and showed that no malicious content was detected.
+This demonstrates how VirusTotal can be used to verify the safety of websites.
+VirusTotal aggregates results from many antivirus engines, which increases reliability compared to using a single scanner.
+
+2. Google Safe Browsing  
+I explored Google Safe Browsing by accessing an official test website that simulates unsafe pages. When I visited the test phishing page, my browser displayed a warning message indicating that the site may be dangerous.
+This shows that Google Safe Browsing actively checks websites and blocks access to potentially harmful content such as phishing or malware sites. It helps protect users by warning them before they enter sensitive information.
+This demonstrates how browsers use security services to prevent users from being exposed to online threats.
+
+3. Cloudflare  
+I explored Cloudflare by inspecting network activity on a website and found requests to "challenges.cloudflare.com". This indicates that the website is using Cloudflare’s security challenge system.
+This system is used to verify whether the user is a human and to block automated bots. It shows that Cloudflare acts as a security layer between users and websites, filtering traffic before it reaches the server.
+This demonstrates how Cloudflare protects websites from malicious traffic and automated attacks such as bots or DDoS.
+
+4. reCAPTCHA  
+I explored reCAPTCHA by interacting with it on a demo website. I completed the verification process, which required confirming that I am a human user by clicking a checkbox and solving a challenge.
+This shows that reCAPTCHA is used to distinguish between humans and automated bots. It helps prevent malicious activities such as spam submissions and brute force attacks on websites.
+This demonstrates how websites use security mechanisms to protect online services from automated threats.
+
+5. Bitwarden  
+I explored Bitwarden by visiting its official website and learning how it functions as a password manager. I observed that it allows users to securely store and manage their passwords in an encrypted vault.
+Bitwarden also provides features such as generating strong passwords and autofilling login details, which helps reduce the risk of using weak or repeated passwords. Bitwarden uses end-to-end encryption to ensure that only the user can access their stored passwords.
+This demonstrates how password managers improve security by protecting user credentials and encouraging better password practices.
+
+Overall, these tools show how different online security mechanisms are used to protect users and systems from various threats.

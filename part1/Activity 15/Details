@@ -1,0 +1,23 @@
+Discover 5 recent security incidents
+
+In this activity, I researched several recent cybersecurity incidents to understand real-world security failures and their impact.
+
+1. Optus Data Breach 2022 (Australia)  
+The Optus data breach exposed personal information of millions of customers due to an API vulnerability. This incident shows how poor access control can lead to large-scale data leaks.
+https://www.qld.gov.au/community/your-home-community/cyber-security/cyber-security-for-queenslanders/case-studies/optus-data-breach
+
+2. Medibank Data Breach 2022 
+Medibank suffered a cyberattack where sensitive health data was stolen and leaked. This demonstrates the importance of securing sensitive information and protecting against unauthorized access.
+https://www.qld.gov.au/community/your-home-community/cyber-security/cyber-security-for-queenslanders/case-studies/medibank-private-cyber-incident
+
+3. MOVEit File Transfer Vulnerability 2023
+A vulnerability in MOVEit software was exploited by attackers to access data from multiple organizations. This highlights the risks of software vulnerabilities and the need for regular updates and patching.
+https://www.ncsc.gov.uk/information/moveit-vulnerability
+
+4. MGM Resorts Cyberattack 2023
+MGM Resorts experienced a cyberattack that disrupted hotel systems and services. This shows how cyberattacks can affect real-world operations and cause financial and reputational damage.
+https://netwrix.com/en/resources/blog/mgm-cyber-attack/
+
+5. Deepfake Scam Incidents  
+There have been cases where attackers used AI-generated voices or videos to impersonate individuals and trick victims into transferring money. This demonstrates emerging threats from AI technologies in cybersecurity.
+https://www.qld.gov.au/community/your-home-community/cyber-security/cyber-security-for-queenslanders/case-studies/deepfake-scams

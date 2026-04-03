@@ -1,0 +1,21 @@
+Discover privacy technique used online
+
+In this activity, I explored several privacy techniques used on the internet to protect user data and personal information. These techniques help prevent unauthorized access and tracking.
+
+1. HTTPS (Secure Connection)  
+I explored HTTPS by observing that websites use “https://” in the URL, which indicates that the connection is encrypted. I also checked the browser’s security information to confirm that the connection is secure.
+HTTPS uses encryption protocols such as TLS to protect data transmission.
+
+2. Incognito / Private Browsing  
+I used incognito mode in my browser and observed that it does not store browsing history, cookies, or site data after the session ends. This helps improve privacy by reducing local tracking.
+
+3. End-to-End Encryption  
+I explored end-to-end encryption through messaging applications such as Messenger. Messages are encrypted so that only the sender and receiver can read them, ensuring that even service providers cannot access the content.
+
+4. Cookie Consent  
+I observed cookie consent banners on websites, which allow users to control whether their data can be tracked. This gives users more control over their privacy and how their data is used.
+
+5. Two-Factor Authentication (2FA)  
+I explored 2FA by using it on an account, where a second verification step (such as a code) is required in addition to a password. This improves privacy and security by adding an extra layer of protection.
+
+Overall, these techniques demonstrate how online systems protect user data and provide users with more control over their personal information.

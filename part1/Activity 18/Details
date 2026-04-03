@@ -1,0 +1,13 @@
+AI hallucinations
+
+Case 1: Medical hallucination  
+Research has shown that AI systems can generate incorrect medical information. In one study, AI was given fake medical terms and still produced confident explanations as if they were real. In some cases, AI accepted false medical information nearly half of the time.  
+This demonstrates that AI can hallucinate in high-risk areas like healthcare, which may lead to dangerous consequences if users rely on the information without verification.
+https://www.mountsinai.org/about/newsroom/2025/ai-chatbots-can-run-with-medical-misinformation-study-finds-highlighting-the-need-for-stronger-safeguards?utm_source=chatgpt.com
+
+Case 2: Legal hallucination  
+In a well-known case, a lawyer used an AI system to generate legal references for a court case. The AI produced citations of cases that did not actually exist. The lawyer submitted these references, and the court later discovered they were completely fabricated.  
+This shows that AI can generate highly realistic but false information, which can lead to serious consequences in professional settings.
+https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries?utm_source=chatgpt.com
+
+These examples demonstrate that AI systems can produce convincing but incorrect information. Therefore, users must verify AI-generated content, especially in critical areas such as healthcare and law.

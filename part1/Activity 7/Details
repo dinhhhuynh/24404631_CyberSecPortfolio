@@ -1,0 +1,14 @@
+Discover cryptography used in modern networks
+
+In this activity, I explored how cryptography is used in modern networks to secure communication and protect data.
+
+1. WPA2/WPA3 Wi-Fi encryption  
+I explored how Wi-Fi networks use WPA2 or WPA3 to encrypt wireless communication. At UWA, I learned that the network uses WPA2/WPA3 with 802.1X authentication. This ensures that data transmitted over Wi-Fi is encrypted and only authorised users can connect.
+
+2. TLS protocol in network communication  
+I explored how the TLS protocol is used to encrypt data transmitted over networks. TLS ensures that data exchanged between devices is secure and cannot be easily intercepted by attackers.
+
+3. VPN encryption  
+I explored how VPN services use encryption to protect internet traffic. When using a VPN, my data is encrypted before being transmitted over the network, which helps protect it from interception, especially on public Wi-Fi.
+
+Overall, this activity shows that cryptography is essential in modern networks to ensure confidentiality, integrity, and secure communication.

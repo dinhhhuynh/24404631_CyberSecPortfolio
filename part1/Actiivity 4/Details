@@ -1,0 +1,11 @@
+Discover a vulnerable website
+
+In this activity, I explored a publicly available website that is intentionally designed to be vulnerable for learning and testing purposes.
+
+I visited the website "zero.webappsecurity.com" and explored different parts of the system. I also referred to online guides to better understand how vulnerabilities can be demonstrated on this platform.
+
+From the guide, I learned that adding "/admin" to the URL may lead to an admin-related page. When I tested this, I was able to access a restricted page, which suggests weak access control.
+
+I also explored the "/manager" endpoint and observed that it returned a 401 Unauthorized page. However, the page exposed internal system information, including configuration file paths and example login credentials. This is an example of information disclosure, as sensitive system details are revealed even without authentication.
+
+Overall, this activity showed that vulnerabilities can include weak access control, poor input validation, and unnecessary exposure of system information.

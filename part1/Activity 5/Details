@@ -1,0 +1,21 @@
+Discover cryptographic implementation used online
+
+In this activity, I explored how cryptography is used in online systems to protect data and ensure secure communication.
+
+1. Password hashing  
+I explored how websites store passwords securely. Instead of storing passwords in plain text, they are converted into hashed values. This ensures that even if a database is compromised, the original passwords are not easily revealed.
+
+2. Digital signatures  
+I explored how digital signatures are used to verify the authenticity of messages or software. For example, when downloading software or updates, digital signatures help confirm that the content has not been tampered with.
+
+3. Digital certificates  
+I observed that websites use digital certificates issued by trusted authorities. These certificates verify the identity of the website and ensure that users are connecting to legitimate servers.
+
+4. Secure cookies  
+I observed that websites use cookies to maintain sessions. These cookies can be encrypted or protected to prevent attackers from hijacking user sessions.
+
+5. Cryptographic tokens (session tokens)  
+I explored how websites use session tokens to keep users logged in securely. These tokens are generated using cryptographic methods and help verify user identity without repeatedly sending passwords.
+https://dev.to/master-rj/understanding-sessions-and-tokens-a-deep-dive-52k4
+
+Overall, this activity helped me understand that cryptography is widely used online to protect communication, verify identity, and secure user data.

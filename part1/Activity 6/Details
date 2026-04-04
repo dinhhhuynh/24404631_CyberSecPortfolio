@@ -1,0 +1,14 @@
+A6. Discover cryptographic implementation used offline
+
+In this activity, I explored how cryptography is used in offline systems to protect data and ensure security without relying on internet connectivity.
+
+1. ATM PIN verification  
+I explored how ATMs use PIN codes to authenticate users. The entered PIN is processed securely and compared using cryptographic methods, ensuring that the actual PIN is not exposed.
+
+2. Chip-based bank cards  
+I observed that modern bank cards contain embedded chips. These chips use cryptographic techniques to securely process transactions and prevent card cloning or fraud.
+
+3. Encrypted USB storage  
+I explored encrypted USB drives that require a password to access stored files. The data is protected using encryption, so even if the device is lost, the information cannot be easily accessed.
+
+Overall, this activity shows that cryptography is not only used online, but also plays an important role in securing offline systems and physical devices.

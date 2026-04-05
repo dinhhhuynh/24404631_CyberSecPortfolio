@@ -1,0 +1,14 @@
+Discover cryptography used in Internet of Things devices.
+
+In this activity, I explored how cryptography is used in Internet of Things (IoT) devices that I use in daily life.
+
+1. Bluetooth pairing encryption  
+I connected my wireless earphones to my phone using Bluetooth. During the pairing process, the devices need to verify each other and establish a secure connection. This involves encryption so that other devices cannot easily intercept the communication.
+
+2. Device authentication  
+When connecting devices, I noticed that my phone only allows trusted devices to connect after the first pairing. This shows that authentication is used to ensure that only authorised devices can communicate with each other.
+
+3. Secure connection in Apple ecosystem  
+I observed that Apple devices (i.e., Mac, iPad, iPhone, Airpods, etc.) can connect seamlessly with each other. This process happens quickly but still requires secure authentication between devices. Cryptographic mechanisms are used to verify the identity of devices and protect the communication, even though it appears simple to the user.
+
+This activity helped me understand that cryptography is widely used in IoT devices to ensure secure communication and protect user data.
